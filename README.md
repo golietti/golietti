@@ -42,7 +42,7 @@ y migrando estructuras desde archivos `.dat` hacia sistemas más robustos con My
 
 ## 📫 Contacto
 
-- 💼 [LinkedIn] (https://ar.linkedin.com/in/olietti-gonzalo-6601bb156) 
+- 💼 https://ar.linkedin.com/in/olietti-gonzalo-6601bb156
 - 📧 ghonza@hotmail.com
 
 
